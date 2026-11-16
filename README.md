@@ -6,6 +6,14 @@ This repo is a minimal, working demo of a technique that solves all of it — ba
 
 ![demo](docs/demo.gif)
 
+## Used in production — Global MindMap
+
+This exact technique ships in [Global MindMap](https://play.google.com/store/apps/details?id=com.global.mind.map), a free mind map app with **150+ UI languages**. Real-world usage, editing a node **with the entire app UI in Arabic (RTL)** — mirrored toolbar, mirrored handles, magnifier working:
+
+![Global MindMap — text selection in Arabic RTL](docs/global_mindmap_rtl.gif)
+
+*(Real app, no mockups.)*
+
 ## What the demo does
 
 - Tap the background: pan / pinch to zoom the canvas
